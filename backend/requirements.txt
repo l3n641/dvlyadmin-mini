@@ -1,5 +1,5 @@
 daphne
-Django==4.1.8
+Django==5.1
 django-comment-migrate
 django-cors-headers
 django-filter
@@ -16,4 +16,5 @@ openpyxl
 requests
 channels
 channels_redis
+django-environ
 #psycopg2
